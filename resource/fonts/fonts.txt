@@ -1799,7 +1799,25 @@ Path: Windows Fonts
     style: Normal
     stretch: Normal
     weight: 400
-    glyphs: c:\windows\fonts\tf2.ttf
+    glyphs: c:\windows\fonts\tf2_0.ttf
+  Font: TF2-Build
+    family: TF2 Build
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\tf2build.ttf
+  Font: TF2-Professor
+    family: TF2 Professor
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\tf2professor.ttf
+  Font: TF2-Secondary
+    family: TF2 Secondary
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\tf2secondary.ttf
   Font: Time-Normal
     family: Time
     style: Normal
