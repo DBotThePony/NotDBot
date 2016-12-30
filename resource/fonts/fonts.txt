@@ -1697,73 +1697,109 @@ Path: Windows Fonts
     style: Normal
     stretch: Normal
     weight: 400
-    glyphs: c:\windows\fonts\sourcesanspro-regular.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-regular_0.ttf
   Font: Source-Sans-Pro-Black
     family: Source Sans Pro
     style: Normal
     stretch: Normal
     weight: 900
-    glyphs: c:\windows\fonts\sourcesanspro-black.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-black_0.ttf
   Font: Source-Sans-Pro-Black-Italic
     family: Source Sans Pro
     style: Italic
     stretch: Normal
     weight: 900
-    glyphs: c:\windows\fonts\sourcesanspro-blackit.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-blackit_0.ttf
   Font: Source-Sans-Pro-Bold
     family: Source Sans Pro
     style: Normal
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\sourcesanspro-bold.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-bold_0.ttf
   Font: Source-Sans-Pro-Bold-Italic
     family: Source Sans Pro
     style: Italic
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\sourcesanspro-boldit.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-boldit_0.ttf
   Font: Source-Sans-Pro-ExtraLight
     family: Source Sans Pro
     style: Normal
     stretch: Normal
     weight: 200
-    glyphs: c:\windows\fonts\sourcesanspro-extralight.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-extralight_0.ttf
   Font: Source-Sans-Pro-ExtraLight-Italic
     family: Source Sans Pro
     style: Italic
     stretch: Normal
     weight: 200
-    glyphs: c:\windows\fonts\sourcesanspro-extralightit.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-extralightit_0.ttf
   Font: Source-Sans-Pro-Italic
     family: Source Sans Pro
     style: Italic
     stretch: Normal
     weight: 400
-    glyphs: c:\windows\fonts\sourcesanspro-it.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-it_0.ttf
   Font: Source-Sans-Pro-Light
     family: Source Sans Pro
     style: Normal
     stretch: Normal
     weight: 300
-    glyphs: c:\windows\fonts\sourcesanspro-light.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-light_0.ttf
   Font: Source-Sans-Pro-Light-Italic
     family: Source Sans Pro
     style: Italic
     stretch: Normal
     weight: 300
-    glyphs: c:\windows\fonts\sourcesanspro-lightit.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-lightit_0.ttf
   Font: Source-Sans-Pro-Semibold
     family: Source Sans Pro
     style: Normal
     stretch: Normal
     weight: 600
-    glyphs: c:\windows\fonts\sourcesanspro-semibold.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-semibold_0.ttf
   Font: Source-Sans-Pro-Semibold-Italic
     family: Source Sans Pro
     style: Italic
     stretch: Normal
     weight: 600
-    glyphs: c:\windows\fonts\sourcesanspro-semiboldit.ttf
+    glyphs: c:\windows\fonts\sourcesanspro-semiboldit_0.ttf
+  Font: Source-Serif-Pro
+    family: Source Serif Pro
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\sourceserifpro-regular.ttf
+  Font: Source-Serif-Pro-Black
+    family: Source Serif Pro
+    style: Normal
+    stretch: Normal
+    weight: 900
+    glyphs: c:\windows\fonts\sourceserifpro-black.ttf
+  Font: Source-Serif-Pro-Bold
+    family: Source Serif Pro
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\sourceserifpro-bold.ttf
+  Font: Source-Serif-Pro-ExtraLight
+    family: Source Serif Pro
+    style: Normal
+    stretch: Normal
+    weight: 200
+    glyphs: c:\windows\fonts\sourceserifpro-extralight.ttf
+  Font: Source-Serif-Pro-Light
+    family: Source Serif Pro
+    style: Normal
+    stretch: Normal
+    weight: 300
+    glyphs: c:\windows\fonts\sourceserifpro-light.ttf
+  Font: Source-Serif-Pro-Semibold
+    family: Source Serif Pro
+    style: Normal
+    stretch: Normal
+    weight: 600
+    glyphs: c:\windows\fonts\sourceserifpro-semibold.ttf
   Font: Sylfaen
     family: Sylfaen
     style: Normal
