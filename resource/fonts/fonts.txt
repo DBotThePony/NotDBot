@@ -114,6 +114,30 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\ariali.ttf
+  Font: Arimo
+    family: Arimo
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\arimo-regular.ttf
+  Font: Arimo-Bold
+    family: Arimo
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\arimo-bold.ttf
+  Font: Arimo-Bold-Italic
+    family: Arimo
+    style: Italic
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\arimo-bolditalic.ttf
+  Font: Arimo-Italic
+    family: Arimo
+    style: Italic
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\arimo-italic.ttf
   Font: Batang-&-BatangChe-&-Gungsuh-&-GungsuhChe
     family: Batang & BatangChe & Gungsuh & GungsuhChe
     style: Normal
@@ -438,6 +462,30 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\couri.ttf
+  Font: Cousine
+    family: Cousine
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\cousine-regular.ttf
+  Font: Cousine-Bold
+    family: Cousine
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\cousine-bold.ttf
+  Font: Cousine-Bold-Italic
+    family: Cousine
+    style: Italic
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\cousine-bolditalic.ttf
+  Font: Cousine-Italic
+    family: Cousine
+    style: Italic
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\cousine-italic.ttf
   Font: DaunPenh
     family: DaunPenh
     style: Normal
@@ -1427,25 +1475,175 @@ Path: Windows Fonts
     style: Normal
     stretch: Normal
     weight: 400
-    glyphs: c:\windows\fonts\opensans-regular.ttf
+    glyphs: c:\windows\fonts\opensans-regular_0.ttf
   Font: Open-Sans-Bold
     family: Open Sans
     style: Normal
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\opensans-bold.ttf
+    glyphs: c:\windows\fonts\opensans-bold_0.ttf
   Font: Open-Sans-Bold-Italic
     family: Open Sans
     style: Italic
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\opensans-bolditalic.ttf
+    glyphs: c:\windows\fonts\opensans-bolditalic_0.ttf
+  Font: Open-Sans-Condensed-Bold
+    family: Open Sans
+    style: Normal
+    stretch: Condensed
+    weight: 700
+    glyphs: c:\windows\fonts\opensans-condbold.ttf
+  Font: Open-Sans-Condensed-Light
+    family: Open Sans
+    style: Normal
+    stretch: Condensed
+    weight: 300
+    glyphs: c:\windows\fonts\opensans-condlight.ttf
+  Font: Open-Sans-Condensed-Light-Italic
+    family: Open Sans
+    style: Italic
+    stretch: Condensed
+    weight: 300
+    glyphs: c:\windows\fonts\opensans-condlightitalic.ttf
+  Font: Open-Sans-Extrabold
+    family: Open Sans
+    style: Normal
+    stretch: Normal
+    weight: 800
+    glyphs: c:\windows\fonts\opensans-extrabold.ttf
+  Font: Open-Sans-Extrabold-Italic
+    family: Open Sans
+    style: Italic
+    stretch: Normal
+    weight: 800
+    glyphs: c:\windows\fonts\opensans-extrabolditalic.ttf
+  Font: Open-Sans-Hebrew
+    family: Open Sans Hebrew
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\opensanshebrew-regular.ttf
+  Font: Open-Sans-Hebrew-Bold
+    family: Open Sans Hebrew
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\opensanshebrew-bold.ttf
+  Font: Open-Sans-Hebrew-Bold-Italic
+    family: Open Sans Hebrew
+    style: Italic
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\opensanshebrew-bolditalic.ttf
+  Font: Open-Sans-Hebrew-Condensed
+    family: Open Sans Hebrew
+    style: Normal
+    stretch: Condensed
+    weight: 400
+    glyphs: c:\windows\fonts\opensanshebrewcondensed-regular.ttf
+  Font: Open-Sans-Hebrew-Condensed-Bold
+    family: Open Sans Hebrew
+    style: Normal
+    stretch: Condensed
+    weight: 700
+    glyphs: c:\windows\fonts\opensanshebrewcondensed-bold.ttf
+  Font: Open-Sans-Hebrew-Condensed-Bold-Italic
+    family: Open Sans Hebrew
+    style: Italic
+    stretch: Condensed
+    weight: 700
+    glyphs: c:\windows\fonts\opensanshebrewcondensed-bolditalic.ttf
+  Font: Open-Sans-Hebrew-Condensed-Extra-Bold
+    family: Open Sans Hebrew Condensed Extra
+    style: Normal
+    stretch: Condensed
+    weight: 700
+    glyphs: c:\windows\fonts\opensanshebrewcondensed-extrabold.ttf
+  Font: Open-Sans-Hebrew-Condensed-Extra-Bold-Italic
+    family: Open Sans Hebrew Condensed Extra
+    style: Italic
+    stretch: Condensed
+    weight: 700
+    glyphs: c:\windows\fonts\opensanshebrewcondensed-extrabolditalic.ttf
+  Font: Open-Sans-Hebrew-Condensed-Italic
+    family: Open Sans Hebrew
+    style: Italic
+    stretch: Condensed
+    weight: 400
+    glyphs: c:\windows\fonts\opensanshebrewcondensed-italic.ttf
+  Font: Open-Sans-Hebrew-Condensed-Light
+    family: Open Sans Hebrew
+    style: Normal
+    stretch: Condensed
+    weight: 300
+    glyphs: c:\windows\fonts\opensanshebrewcondensed-light.ttf
+  Font: Open-Sans-Hebrew-Condensed-Light-Italic
+    family: Open Sans Hebrew
+    style: Italic
+    stretch: Condensed
+    weight: 300
+    glyphs: c:\windows\fonts\opensanshebrewcondensed-lightitalic.ttf
+  Font: Open-Sans-Hebrew-Extra-Bold
+    family: Open Sans Hebrew Extra
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\opensanshebrew-extrabold.ttf
+  Font: Open-Sans-Hebrew-Extra-Bold-Italic
+    family: Open Sans Hebrew Extra
+    style: Italic
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\opensanshebrew-extrabolditalic.ttf
+  Font: Open-Sans-Hebrew-Italic
+    family: Open Sans Hebrew
+    style: Italic
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\opensanshebrew-italic.ttf
+  Font: Open-Sans-Hebrew-Light
+    family: Open Sans Hebrew
+    style: Normal
+    stretch: Normal
+    weight: 300
+    glyphs: c:\windows\fonts\opensanshebrew-light.ttf
+  Font: Open-Sans-Hebrew-Light-Italic
+    family: Open Sans Hebrew
+    style: Italic
+    stretch: Normal
+    weight: 300
+    glyphs: c:\windows\fonts\opensanshebrew-lightitalic.ttf
   Font: Open-Sans-Italic
     family: Open Sans
     style: Italic
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\opensans-italic.ttf
+  Font: Open-Sans-Light
+    family: Open Sans
+    style: Normal
+    stretch: Normal
+    weight: 300
+    glyphs: c:\windows\fonts\opensans-light.ttf
+  Font: Open-Sans-Light-Italic
+    family: Open Sans
+    style: Italic
+    stretch: Normal
+    weight: 300
+    glyphs: c:\windows\fonts\opensans-lightitalic.ttf
+  Font: Open-Sans-Semibold
+    family: Open Sans
+    style: Normal
+    stretch: Normal
+    weight: 600
+    glyphs: c:\windows\fonts\opensans-semibold.ttf
+  Font: Open-Sans-Semibold-Italic
+    family: Open Sans
+    style: Italic
+    stretch: Normal
+    weight: 600
+    glyphs: c:\windows\fonts\opensans-semibolditalic.ttf
   Font: OpenSymbol
     family: OpenSymbol
     style: Normal
@@ -1566,6 +1764,42 @@ Path: Windows Fonts
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\roboto-bolditalic.ttf
+  Font: Roboto-Condensed
+    family: Roboto
+    style: Normal
+    stretch: Condensed
+    weight: 400
+    glyphs: c:\windows\fonts\robotocondensed-regular.ttf
+  Font: Roboto-Condensed-Bold
+    family: Roboto
+    style: Normal
+    stretch: Condensed
+    weight: 700
+    glyphs: c:\windows\fonts\robotocondensed-bold.ttf
+  Font: Roboto-Condensed-Bold-Italic
+    family: Roboto
+    style: Italic
+    stretch: Condensed
+    weight: 700
+    glyphs: c:\windows\fonts\robotocondensed-bolditalic.ttf
+  Font: Roboto-Condensed-Italic
+    family: Roboto
+    style: Italic
+    stretch: Condensed
+    weight: 400
+    glyphs: c:\windows\fonts\robotocondensed-italic.ttf
+  Font: Roboto-Condensed-Light
+    family: Roboto
+    style: Normal
+    stretch: Condensed
+    weight: 300
+    glyphs: c:\windows\fonts\robotocondensed-light.ttf
+  Font: Roboto-Condensed-Light-Italic
+    family: Roboto
+    style: Italic
+    stretch: Condensed
+    weight: 300
+    glyphs: c:\windows\fonts\robotocondensed-lightitalic.ttf
   Font: Roboto-Italic
     family: Roboto
     style: Italic
@@ -1596,6 +1830,90 @@ Path: Windows Fonts
     stretch: Normal
     weight: 500
     glyphs: c:\windows\fonts\roboto-mediumitalic.ttf
+  Font: Roboto-Mono
+    family: Roboto Mono
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\robotomono-regular.ttf
+  Font: Roboto-Mono-Bold
+    family: Roboto Mono
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\robotomono-bold.ttf
+  Font: Roboto-Mono-Bold-Italic
+    family: Roboto Mono
+    style: Italic
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\robotomono-bolditalic.ttf
+  Font: Roboto-Mono-Italic
+    family: Roboto Mono
+    style: Italic
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\robotomono-italic.ttf
+  Font: Roboto-Mono-Light
+    family: Roboto Mono
+    style: Normal
+    stretch: Normal
+    weight: 300
+    glyphs: c:\windows\fonts\robotomono-light.ttf
+  Font: Roboto-Mono-Light-Italic
+    family: Roboto Mono
+    style: Italic
+    stretch: Normal
+    weight: 300
+    glyphs: c:\windows\fonts\robotomono-lightitalic.ttf
+  Font: Roboto-Mono-Medium
+    family: Roboto Mono
+    style: Normal
+    stretch: Normal
+    weight: 500
+    glyphs: c:\windows\fonts\robotomono-medium.ttf
+  Font: Roboto-Mono-Medium-Italic
+    family: Roboto Mono
+    style: Italic
+    stretch: Normal
+    weight: 500
+    glyphs: c:\windows\fonts\robotomono-mediumitalic.ttf
+  Font: Roboto-Mono-Thin
+    family: Roboto Mono
+    style: Normal
+    stretch: Normal
+    weight: 100
+    glyphs: c:\windows\fonts\robotomono-thin.ttf
+  Font: Roboto-Mono-Thin-Italic
+    family: Roboto Mono
+    style: Italic
+    stretch: Normal
+    weight: 100
+    glyphs: c:\windows\fonts\robotomono-thinitalic.ttf
+  Font: Roboto-Slab-Bold
+    family: Roboto Slab
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\robotoslab-bold.ttf
+  Font: Roboto-Slab-Light
+    family: Roboto Slab
+    style: Normal
+    stretch: Normal
+    weight: 300
+    glyphs: c:\windows\fonts\robotoslab-light.ttf
+  Font: Roboto-Slab-Regular
+    family: Roboto Slab
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\robotoslab-regular.ttf
+  Font: Roboto-Slab-Thin
+    family: Roboto Slab
+    style: Normal
+    stretch: Normal
+    weight: 100
+    glyphs: c:\windows\fonts\robotoslab-thin.ttf
   Font: Roboto-Thin
     family: Roboto
     style: Normal
@@ -1956,6 +2274,30 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\timesi.ttf
+  Font: Tinos
+    family: Tinos
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\tinos-regular.ttf
+  Font: Tinos-Bold
+    family: Tinos
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\tinos-bold.ttf
+  Font: Tinos-Bold-Italic
+    family: Tinos
+    style: Italic
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\tinos-bolditalic.ttf
+  Font: Tinos-Italic
+    family: Tinos
+    style: Italic
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\tinos-italic.ttf
   Font: Traditional-Arabic
     family: Traditional Arabic
     style: Normal
