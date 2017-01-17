@@ -6,114 +6,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\aclonica.ttf
-  Font: Acme
-    family: Acme
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\acme-regular.ttf
-  Font: Actor-Regular
-    family: Actor
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\actor-regular.ttf
   Font: Aharoni-Bold
     family: Aharoni
     style: Normal
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\ahronbd.ttf
-  Font: Aller
-    family: Aller
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\aller_rg.ttf
-  Font: Aller-Bold
-    family: Aller
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\aller.ttf
-  Font: Aller-Bold-Italic
-    family: Aller
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\aller_bdit.ttf
-  Font: Aller-Display
-    family: Aller Display
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\allerdisplay.ttf
-  Font: Aller-Italic
-    family: Aller
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\aller_it.ttf
-  Font: Aller-Light
-    family: Aller
-    style: Normal
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\aller_lt.ttf
-  Font: Aller-Light-Italic
-    family: Aller
-    style: Italic
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\aller_ltit.ttf
-  Font: Andada
-    family: Andada
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\andada-regular.otf
-  Font: Andada-Bold
-    family: Andada
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\andada-bold.otf
-  Font: Andada-Bold-Italic
-    family: Andada
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\andada-bolditalic.otf
-  Font: Andada-Italic
-    family: Andada
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\andada-italic.otf
-  Font: Andada-SC
-    family: Andada SC
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\andadasc-regular.otf
-  Font: Andada-SC-Bold
-    family: Andada SC
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\andadasc-bold.otf
-  Font: Andada-SC-Bold-Italic
-    family: Andada SC
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\andadasc-bolditalic.otf
-  Font: Andada-SC-Italic
-    family: Andada SC
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\andadasc-italic.otf
   Font: Andalus
     family: Andalus
     style: Normal
@@ -168,30 +66,6 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\angsaui.ttf
-  Font: Anonymous-Pro
-    family: Anonymous Pro
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\anonymouspro-regular.ttf
-  Font: Anonymous-Pro-Bold
-    family: Anonymous Pro
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\anonymouspro-bold.ttf
-  Font: Anonymous-Pro-Bold-Italic
-    family: Anonymous Pro
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\anonymouspro-bolditalic.ttf
-  Font: Anonymous-Pro-Italic
-    family: Anonymous Pro
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\anonymouspro-italic.ttf
   Font: Aparajita
     family: Aparajita
     style: Normal
@@ -216,48 +90,6 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\arabtype.ttf
-  Font: Arapey-Italic
-    family: Arapey
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\arapey-italic.ttf
-  Font: Arapey-Regular
-    family: Arapey
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\arapey-regular.ttf
-  Font: Arbutus-Slab
-    family: Arbutus Slab
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\arbutusslab-regular.ttf
-  Font: Archivo-Narrow-Bold
-    family: Archivo Narrow
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\archivonarrow-bold.otf
-  Font: Archivo-Narrow-Bold-Italic
-    family: Archivo Narrow
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\archivonarrow-bolditalic.otf
-  Font: Archivo-Narrow-Italic
-    family: Archivo Narrow
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\archivonarrow-italic.otf
-  Font: Archivo-Narrow-Regular
-    family: Archivo Narrow
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\archivonarrow-regular.otf
   Font: Arial
     family: Arial
     style: Normal
@@ -312,42 +144,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\arimo-italic.ttf
-  Font: Asap
-    family: Asap
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\asap-regular.otf
-  Font: Asap-Bold
-    family: Asap
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\asap-bold.otf
-  Font: Asap-Bold-Italic
-    family: Asap
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\asap-bolditalic.otf
-  Font: Asap-Italic
-    family: Asap
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\asap-italic.otf
   Font: Batang-&-BatangChe-&-Gungsuh-&-GungsuhChe
     family: Batang & BatangChe & Gungsuh & GungsuhChe
     style: Normal
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\batang.ttc
-  Font: Bebas
-    family: Bebas
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\bebas__.ttf
   Font: BebasNeue
     family: BebasNeue
     style: Normal
@@ -1074,114 +876,6 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\euphemia.ttf
-  Font: Exo-2
-    family: Exo 2
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\exo2-regular.otf
-  Font: Exo-2-Black
-    family: Exo 2
-    style: Normal
-    stretch: Normal
-    weight: 900
-    glyphs: c:\windows\fonts\exo2-black.otf
-  Font: Exo-2-Black-Italic
-    family: Exo 2
-    style: Italic
-    stretch: Normal
-    weight: 900
-    glyphs: c:\windows\fonts\exo2-blackitalic.otf
-  Font: Exo-2-Bold
-    family: Exo 2
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\exo2-bold.otf
-  Font: Exo-2-Bold-Italic
-    family: Exo 2
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\exo2-bolditalic.otf
-  Font: Exo-2-Extra-Bold
-    family: Exo 2 Extra
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\exo2-extrabold.otf
-  Font: Exo-2-Extra-Bold-Italic
-    family: Exo 2 Extra
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\exo2-extrabolditalic.otf
-  Font: Exo-2-Extra-Light
-    family: Exo 2 Extra
-    style: Normal
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\exo2-extralight.otf
-  Font: Exo-2-Extra-Light-Italic
-    family: Exo 2 Extra
-    style: Italic
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\exo2-extralightitalic.otf
-  Font: Exo-2-Italic
-    family: Exo 2
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\exo2-italic.otf
-  Font: Exo-2-Light
-    family: Exo 2
-    style: Normal
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\exo2-light.otf
-  Font: Exo-2-Light-Italic
-    family: Exo 2
-    style: Italic
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\exo2-lightitalic.otf
-  Font: Exo-2-Medium
-    family: Exo 2
-    style: Normal
-    stretch: Normal
-    weight: 500
-    glyphs: c:\windows\fonts\exo2-medium.otf
-  Font: Exo-2-Medium-Italic
-    family: Exo 2
-    style: Italic
-    stretch: Normal
-    weight: 500
-    glyphs: c:\windows\fonts\exo2-mediumitalic.otf
-  Font: Exo-2-Semi-Bold
-    family: Exo 2 Semi
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\exo2-semibold.otf
-  Font: Exo-2-Semi-Bold-Italic
-    family: Exo 2 Semi
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\exo2-semibolditalic.otf
-  Font: Exo-2-Thin
-    family: Exo 2
-    style: Normal
-    stretch: Normal
-    weight: 100
-    glyphs: c:\windows\fonts\exo2-thin.otf
-  Font: Exo-2-Thin-Italic
-    family: Exo 2
-    style: Italic
-    stretch: Normal
-    weight: 100
-    glyphs: c:\windows\fonts\exo2-thinitalic.otf
   Font: FangSong
     family: FangSong
     style: Normal
@@ -1872,54 +1566,6 @@ Path: Windows Fonts
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\meiryob.ttc
-  Font: Merriweather-Bold
-    family: Merriweather
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\merriweather-bold.ttf
-  Font: Merriweather-Bold-Italic-
-    family: Merriweather
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\merriweather-boldit.ttf
-  Font: Merriweather-Italic-
-    family: Merriweather
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\merriweather-italic.ttf
-  Font: Merriweather-Light
-    family: Merriweather
-    style: Normal
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\merriweather light.ttf
-  Font: Merriweather-Light-Italic
-    family: Merriweather
-    style: Italic
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\merriweather-lightit.ttf
-  Font: Merriweather-Regular
-    family: Merriweather
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\merriweather-regular.ttf
-  Font: Merriweather-UltraBold
-    family: Merriweather
-    style: Normal
-    stretch: Normal
-    weight: 800
-    glyphs: c:\windows\fonts\merriweather ultrabold.ttf
-  Font: Merriweather-UltraBold-Italic-
-    family: Merriweather
-    style: Italic
-    stretch: Normal
-    weight: 800
-    glyphs: c:\windows\fonts\merriweather-ultrabdit.ttf
   Font: Microsoft-Himalaya
     family: Microsoft Himalaya
     style: Normal
@@ -2328,144 +1974,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\plantc.ttf
-  Font: Play
-    family: Play
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\play-regular.ttf
-  Font: Play-Bold
-    family: Play-Bold
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\play-bold.ttf
-  Font: Playfair-Display
-    family: Playfair Display
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\playfairdisplay-regular.otf
-  Font: Playfair-Display-Black
-    family: Playfair Display
-    style: Normal
-    stretch: Normal
-    weight: 900
-    glyphs: c:\windows\fonts\playfairdisplay-black.otf
-  Font: Playfair-Display-Black-Italic
-    family: Playfair Display
-    style: Italic
-    stretch: Normal
-    weight: 900
-    glyphs: c:\windows\fonts\playfairdisplay-blackitalic.otf
-  Font: Playfair-Display-Bold
-    family: Playfair Display
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\playfairdisplay-bold.otf
-  Font: Playfair-Display-Bold-Italic
-    family: Playfair Display
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\playfairdisplay-bolditalic.otf
-  Font: Playfair-Display-Italic
-    family: Playfair Display
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\playfairdisplay-italic.otf
-  Font: Playfair-Display-SC
-    family: Playfair Display SC
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\playfairdisplaysc-regular.ttf
-  Font: Playfair-Display-SC-Black
-    family: Playfair Display SC
-    style: Normal
-    stretch: Normal
-    weight: 900
-    glyphs: c:\windows\fonts\playfairdisplaysc-black.ttf
-  Font: Playfair-Display-SC-Black-Italic
-    family: Playfair Display SC
-    style: Italic
-    stretch: Normal
-    weight: 900
-    glyphs: c:\windows\fonts\playfairdisplaysc-blackitalic.ttf
-  Font: Playfair-Display-SC-Bold
-    family: Playfair Display SC
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\playfairdisplaysc-bold.ttf
-  Font: Playfair-Display-SC-Bold-Italic
-    family: Playfair Display SC
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\playfairdisplaysc-bolditalic.ttf
-  Font: Playfair-Display-SC-Italic
-    family: Playfair Display SC
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\playfairdisplaysc-italic.ttf
   Font: PricedownBl-Regular
     family: PricedownBl-Regular
     style: Normal
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\pricedown bl.ttf
-  Font: PT-Sans
-    family: PT Sans
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\pts55f.ttf
-  Font: PT-Sans-Bold
-    family: PT Sans
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\pts75f.ttf
-  Font: PT-Sans-Bold-Italic
-    family: PT Sans
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\pts76f.ttf
-  Font: PT-Sans-Caption
-    family: PT Sans Caption
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\ptc55f.ttf
-  Font: PT-Sans-Caption-Bold
-    family: PT Sans Caption
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\ptc75f.ttf
-  Font: PT-Sans-Italic
-    family: PT Sans
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\pts56f.ttf
-  Font: PT-Sans-Narrow
-    family: PT Sans Narrow
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\ptn57f.ttf
-  Font: PT-Sans-Narrow-Bold
-    family: PT Sans Narrow
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\ptn77f.ttf
   Font: PT-Serif
     family: PT Serif
     style: Normal
@@ -3186,60 +2700,6 @@ Path: Windows Fonts
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\tungab.ttf
-  Font: Ubuntu
-    family: Ubuntu
-    style: Normal
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\ubuntu-r.ttf
-  Font: Ubuntu-Bold
-    family: Ubuntu
-    style: Normal
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\ubuntu-b.ttf
-  Font: Ubuntu-Bold-Italic
-    family: Ubuntu
-    style: Italic
-    stretch: Normal
-    weight: 700
-    glyphs: c:\windows\fonts\ubuntu-bi.ttf
-  Font: Ubuntu-Condensed
-    family: Ubuntu
-    style: Normal
-    stretch: Condensed
-    weight: 400
-    glyphs: c:\windows\fonts\ubuntu-c.ttf
-  Font: Ubuntu-Italic
-    family: Ubuntu
-    style: Italic
-    stretch: Normal
-    weight: 400
-    glyphs: c:\windows\fonts\ubuntu-ri.ttf
-  Font: Ubuntu-Light
-    family: Ubuntu
-    style: Normal
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\ubuntu-l.ttf
-  Font: Ubuntu-Light-Italic
-    family: Ubuntu
-    style: Italic
-    stretch: Normal
-    weight: 300
-    glyphs: c:\windows\fonts\ubuntu-li.ttf
-  Font: Ubuntu-Medium
-    family: Ubuntu
-    style: Normal
-    stretch: Normal
-    weight: 500
-    glyphs: c:\windows\fonts\ubuntu-m.ttf
-  Font: Ubuntu-Medium-Italic
-    family: Ubuntu
-    style: Italic
-    stretch: Normal
-    weight: 500
-    glyphs: c:\windows\fonts\ubuntu-mi.ttf
   Font: Ultra
     family: Ultra
     style: Normal
