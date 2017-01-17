@@ -1,5 +1,11 @@
 
 Path: Windows Fonts
+  Font: Aclonica
+    family: Aclonica
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\aclonica.ttf
   Font: Aharoni-Bold
     family: Aharoni
     style: Normal
@@ -258,6 +264,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 300
     glyphs: c:\windows\fonts\calibrili.ttf
+  Font: Calligraffitti
+    family: Calligraffitti
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\calligraffitti-regular.ttf
   Font: Cambria-&-Cambria-Math
     family: Cambria & Cambria Math
     style: Normal
@@ -306,6 +318,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\candarai.ttf
+  Font: Cherry-Cream-Soda
+    family: Cherry Cream Soda
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\cherrycreamsoda.ttf
+  Font: Chewy
+    family: Chewy
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\chewy.ttf
   Font: Comic-Sans-MS
     family: Comic Sans MS
     style: Normal
@@ -318,6 +342,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\comicbd.ttf
+  Font: Coming-Soon
+    family: Coming Soon
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\comingsoon.ttf
   Font: Consolas
     family: Consolas
     style: Normal
@@ -486,6 +516,24 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\cousine-italic.ttf
+  Font: Crafty-Girls
+    family: Crafty Girls
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\craftygirls.ttf
+  Font: Creepster-Caps-Regular
+    family: Creepster Caps
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\creepstercaps-regular.ttf
+  Font: Crushed
+    family: Crushed
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\crushed.ttf
   Font: DaunPenh
     family: DaunPenh
     style: Normal
@@ -666,6 +714,120 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\dokchamp.ttf
+  Font: Droid-Arabic-Kufi
+    family: Droid Arabic Kufi
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidkufi-regular.ttf
+  Font: Droid-Arabic-Kufi-Bold
+    family: Droid Arabic Kufi
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\droidkufi-bold.ttf
+  Font: Droid-Arabic-Naskh
+    family: Droid Arabic Naskh
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidnaskh-regular.ttf
+  Font: Droid-Arabic-Naskh-Bold
+    family: Droid Arabic Naskh
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\droidnaskh-bold.ttf
+  Font: Droid-Sans
+    family: Droid Sans
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidsans.ttf
+  Font: Droid-Sans-Bold
+    family: Droid Sans
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\droidsans-bold.ttf
+  Font: Droid-Sans-Ethiopic
+    family: Droid Sans Ethiopic
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidsansethiopic-regular.ttf
+  Font: Droid-Sans-Ethiopic-Bold
+    family: Droid Sans Ethiopic
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\droidsansethiopic-bold.ttf
+  Font: Droid-Sans-Mono
+    family: Droid Sans Mono
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidsansmono.ttf
+  Font: Droid-Sans-Tamil
+    family: Droid Sans Tamil
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidsanstamil-regular.ttf
+  Font: Droid-Sans-Tamil-Bold
+    family: Droid Sans Tamil
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\droidsanstamil-bold.ttf
+  Font: Droid-Sans-Thai
+    family: Droid Sans Thai
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidsansthai-regular.ttf
+  Font: Droid-Sans-Thai-Bold
+    family: Droid Sans Thai
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\droidsansthai-bold.ttf
+  Font: Droid-Serif
+    family: Droid Serif
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidserif.ttf
+  Font: Droid-Serif-Bold
+    family: Droid Serif
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\droidserif-bold.ttf
+  Font: Droid-Serif-Bold-Italic
+    family: Droid Serif
+    style: Italic
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\droidserif-bolditalic.ttf
+  Font: Droid-Serif-Italic
+    family: Droid Serif
+    style: Italic
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidserif-italic.ttf
+  Font: Droid-Serif-Thai
+    family: Droid Serif Thai
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\droidserifthai-regular.ttf
+  Font: DroidSerifThai-Bold
+    family: DroidSerifThai
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\droidserifthai-bold.ttf
   Font: Ebrima
     family: Ebrima
     style: Normal
@@ -720,6 +882,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\simfang.ttf
+  Font: Fontdiner-Swanky
+    family: Fontdiner Swanky
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\fontdinerswanky.ttf
   Font: Franklin-Gothic-Medium
     family: Franklin Gothic
     style: Normal
@@ -894,12 +1062,30 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\hack-regular.ttf
+  Font: Homemade-Apple
+    family: Homemade Apple
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\homemadeapple.ttf
   Font: Impact
     family: Impact
     style: Normal
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\impact.ttf
+  Font: Irish-Grover
+    family: Irish Grover
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\irishgrover.ttf
+  Font: Irish-Growler
+    family: Irish Growler
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\irishgrowler.ttf
   Font: IrisUPC
     family: IrisUPC
     style: Normal
@@ -960,6 +1146,48 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\upcji.ttf
+  Font: jsMath-cmbx10
+    family: jsMath-cmbx10
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\jsmath-cmbx10.ttf
+  Font: jsMath-cmex10
+    family: jsMath-cmex10
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\jsmath-cmex10.ttf
+  Font: jsMath-cmmi10
+    family: jsMath-cmmi10
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\jsmath-cmmi10.ttf
+  Font: jsMath-cmr10
+    family: jsMath-cmr10
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\jsmath-cmr10.ttf
+  Font: jsMath-cmsy10
+    family: jsMath-cmsy10
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\jsmath-cmsy10.ttf
+  Font: jsMath-cmti10
+    family: jsMath-cmti10
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\jsmath-cmti10.ttf
+  Font: Just-Another-Hand
+    family: Just Another Hand
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\justanotherhand.ttf
   Font: KaiTi
     family: KaiTi
     style: Normal
@@ -1044,6 +1272,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\kokilai.ttf
+  Font: Kranky
+    family: Kranky
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\kranky.ttf
   Font: Lao-UI
     family: Lao UI
     style: Normal
@@ -1284,6 +1518,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\l_10646.ttf
+  Font: Luckiest-Guy
+    family: Luckiest Guy
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\luckiestguy.ttf
+  Font: Maiden-Orange
+    family: Maiden Orange
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\maidenorange.ttf
   Font: Malgun-Gothic
     family: Malgun Gothic
     style: Normal
@@ -1434,12 +1680,30 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\monbaiti.ttf
+  Font: Montez
+    family: Montez
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\montez-regular.ttf
   Font: MoolBoran
     family: MoolBoran
     style: Normal
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\moolbor.ttf
+  Font: Mountains-of-Christmas
+    family: Mountains of Christmas
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\mountainsofchristmas-regular.ttf
+  Font: Mountains-of-Christmas-Bold
+    family: Mountains of Christmas
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\mountainsofchristmas-bold.ttf
   Font: MS-Gothic-&-MS-PGothic-&-MS-UI-Gothic
     family: MS Gothic & MS PGothic & MS UI Gothic
     style: Normal
@@ -1464,6 +1728,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\nrkis.ttf
+  Font: Nokora
+    family: Nokora
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\nokora-regular.ttf
+  Font: Nokora-Bold
+    family: Nokora
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\nokora-bold.ttf
   Font: Nyala
     family: Nyala
     style: Normal
@@ -1686,6 +1962,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\palai.ttf
+  Font: Permanent-Marker
+    family: Permanent Marker
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\permanentmarker.ttf
   Font: Plantagenet-Cherokee
     family: Plantagenet Cherokee
     style: Normal
@@ -1734,6 +2016,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\raavib.ttf
+  Font: Rancho
+    family: Rancho
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\rancho-regular.ttf
+  Font: Redressed
+    family: Redressed
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\redressed.ttf
   Font: Roboto
     family: Roboto
     style: Normal
@@ -1926,6 +2220,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 100
     glyphs: c:\windows\fonts\roboto-thinitalic.ttf
+  Font: Rochester
+    family: Rochester
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\rochester-regular.ttf
+  Font: Rock-Salt
+    family: Rock Salt
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\rocksalt.ttf
   Font: Rod
     family: Rod
     style: Normal
@@ -1944,6 +2250,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\majallab.ttf
+  Font: Satisfy
+    family: Satisfy
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\satisfy-regular.ttf
+  Font: Schoolbell
+    family: Schoolbell
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\schoolbell.ttf
   Font: Segoe-Print
     family: Segoe Print
     style: Normal
@@ -2070,6 +2388,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\simsunb.ttf
+  Font: Slackey
+    family: Slackey
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\slackey.ttf
+  Font: Smokum
+    family: Smokum
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\smokum-regular.ttf
   Font: Source-Code-Pro
     family: Source Code Pro
     style: Normal
@@ -2190,6 +2520,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 600
     glyphs: c:\windows\fonts\sourceserifpro-semibold.ttf
+  Font: Special-Elite
+    family: Special Elite
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\specialelite.ttf
+  Font: Sunshiney
+    family: Sunshiney
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\sunshiney.ttf
   Font: Sylfaen
     family: Sylfaen
     style: Normal
@@ -2202,6 +2544,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\symbol.ttf
+  Font: Syncopate-Bold
+    family: Syncopate
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\syncopate-bold.ttf
+  Font: Syncopate-Regular
+    family: Syncopate-Regular
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\syncopate-regular.ttf
   Font: Tahoma
     family: Tahoma
     style: Normal
@@ -2346,6 +2700,24 @@ Path: Windows Fonts
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\tungab.ttf
+  Font: Ultra
+    family: Ultra
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\ultra.ttf
+  Font: Unkempt
+    family: Unkempt
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\unkempt-regular.ttf
+  Font: Unkempt-Bold
+    family: Unkempt
+    style: Normal
+    stretch: Normal
+    weight: 700
+    glyphs: c:\windows\fonts\unkempt-bold.ttf
   Font: Utsaah
     family: Utsaah
     style: Normal
@@ -2424,6 +2796,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\vrindab.ttf
+  Font: Walter-Turncoat
+    family: Walter Turncoat
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\walterturncoat.ttf
   Font: Webdings
     family: Webdings
     style: Normal
@@ -2436,3 +2814,9 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\wingding.ttf
+  Font: Yellowtail
+    family: Yellowtail
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\yellowtail-regular.ttf
