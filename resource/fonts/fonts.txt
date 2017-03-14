@@ -516,6 +516,18 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\candarai.ttf
+  Font: Charlemagne
+    family: Charlemagne
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\charlemagne.ttf
+  Font: CharlemagneStd-Bold
+    family: CharlemagneStd-Bold
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\charlemagnebold.otf
   Font: Cherry-Cream-Soda
     family: Cherry Cream Soda
     style: Normal
@@ -1374,6 +1386,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\homemadeapple.ttf
+  Font: HyliaSerifBeta-Regular
+    family: HyliaSerifBeta-Regular
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\hyliaserifbeta_regular.ttf
   Font: Impact
     family: Impact
     style: Normal
@@ -2508,6 +2526,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\rancho-regular.ttf
+  Font: Ravenna
+    family: Ravenna
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\ravenna.ttf
   Font: Redressed
     family: Redressed
     style: Normal
@@ -2814,6 +2838,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 400
     glyphs: c:\windows\fonts\seguisym.ttf
+  Font: Sherwood-Regular
+    family: Sherwood
+    style: Normal
+    stretch: Normal
+    weight: 400
+    glyphs: c:\windows\fonts\sherwoodregular.ttf
   Font: Shonar-Bangla
     family: Shonar Bangla
     style: Normal
