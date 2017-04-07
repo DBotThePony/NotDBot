@@ -1091,109 +1091,109 @@ Path: Windows Fonts
     style: Normal
     stretch: Normal
     weight: 400
-    glyphs: c:\windows\fonts\exo2-regular.otf
+    glyphs: c:\windows\fonts\exo2-regular_0.otf
   Font: Exo-2-Black
     family: Exo 2
     style: Normal
     stretch: Normal
     weight: 900
-    glyphs: c:\windows\fonts\exo2-black.otf
+    glyphs: c:\windows\fonts\exo2-black_0.otf
   Font: Exo-2-Black-Italic
     family: Exo 2
     style: Italic
     stretch: Normal
     weight: 900
-    glyphs: c:\windows\fonts\exo2-blackitalic.otf
+    glyphs: c:\windows\fonts\exo2-blackitalic_0.otf
   Font: Exo-2-Bold
     family: Exo 2
     style: Normal
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\exo2-bold.otf
+    glyphs: c:\windows\fonts\exo2-bold_0.otf
   Font: Exo-2-Bold-Italic
     family: Exo 2
     style: Italic
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\exo2-bolditalic.otf
+    glyphs: c:\windows\fonts\exo2-bolditalic_0.otf
   Font: Exo-2-Extra-Bold
     family: Exo 2 Extra
     style: Normal
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\exo2-extrabold.otf
+    glyphs: c:\windows\fonts\exo2-extrabold_0.otf
   Font: Exo-2-Extra-Bold-Italic
     family: Exo 2 Extra
     style: Italic
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\exo2-extrabolditalic.otf
+    glyphs: c:\windows\fonts\exo2-extrabolditalic_0.otf
   Font: Exo-2-Extra-Light
     family: Exo 2 Extra
     style: Normal
     stretch: Normal
     weight: 300
-    glyphs: c:\windows\fonts\exo2-extralight.otf
+    glyphs: c:\windows\fonts\exo2-extralight_0.otf
   Font: Exo-2-Extra-Light-Italic
     family: Exo 2 Extra
     style: Italic
     stretch: Normal
     weight: 300
-    glyphs: c:\windows\fonts\exo2-extralightitalic.otf
+    glyphs: c:\windows\fonts\exo2-extralightitalic_0.otf
   Font: Exo-2-Italic
     family: Exo 2
     style: Italic
     stretch: Normal
     weight: 400
-    glyphs: c:\windows\fonts\exo2-italic.otf
+    glyphs: c:\windows\fonts\exo2-italic_0.otf
   Font: Exo-2-Light
     family: Exo 2
     style: Normal
     stretch: Normal
     weight: 300
-    glyphs: c:\windows\fonts\exo2-light.otf
+    glyphs: c:\windows\fonts\exo2-light_0.otf
   Font: Exo-2-Light-Italic
     family: Exo 2
     style: Italic
     stretch: Normal
     weight: 300
-    glyphs: c:\windows\fonts\exo2-lightitalic.otf
+    glyphs: c:\windows\fonts\exo2-lightitalic_0.otf
   Font: Exo-2-Medium
     family: Exo 2
     style: Normal
     stretch: Normal
     weight: 500
-    glyphs: c:\windows\fonts\exo2-medium.otf
+    glyphs: c:\windows\fonts\exo2-medium_0.otf
   Font: Exo-2-Medium-Italic
     family: Exo 2
     style: Italic
     stretch: Normal
     weight: 500
-    glyphs: c:\windows\fonts\exo2-mediumitalic.otf
+    glyphs: c:\windows\fonts\exo2-mediumitalic_0.otf
   Font: Exo-2-Semi-Bold
     family: Exo 2 Semi
     style: Normal
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\exo2-semibold.otf
+    glyphs: c:\windows\fonts\exo2-semibold_0.otf
   Font: Exo-2-Semi-Bold-Italic
     family: Exo 2 Semi
     style: Italic
     stretch: Normal
     weight: 700
-    glyphs: c:\windows\fonts\exo2-semibolditalic.otf
+    glyphs: c:\windows\fonts\exo2-semibolditalic_0.otf
   Font: Exo-2-Thin
     family: Exo 2
     style: Normal
     stretch: Normal
     weight: 100
-    glyphs: c:\windows\fonts\exo2-thin.otf
+    glyphs: c:\windows\fonts\exo2-thin_0.otf
   Font: Exo-2-Thin-Italic
     family: Exo 2
     style: Italic
     stretch: Normal
     weight: 100
-    glyphs: c:\windows\fonts\exo2-thinitalic.otf
+    glyphs: c:\windows\fonts\exo2-thinitalic_0.otf
   Font: FangSong
     family: FangSong
     style: Normal
@@ -3084,12 +3084,12 @@ Path: Windows Fonts
     stretch: Normal
     weight: 700
     glyphs: c:\windows\fonts\tahomabd.ttf
-  Font: TeamViewer11
-    family: TeamViewer11
+  Font: TeamViewer12
+    family: TeamViewer12
     style: Normal
     stretch: Normal
     weight: 400
-    glyphs: c:\windows\fonts\teamviewer11.otf
+    glyphs: c:\windows\fonts\teamviewer12.otf
   Font: TF2
     family: TF2
     style: Normal
